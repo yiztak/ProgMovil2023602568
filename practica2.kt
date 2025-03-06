@@ -1,5 +1,4 @@
-
-package com.example.proyecto
+package com.example.holatoast
 
 import android.os.Bundle
 import android.widget.Toast
